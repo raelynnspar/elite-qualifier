@@ -1,6 +1,6 @@
-# Title
+# Elite Qualifier Project
 
-Simple (or clever and funny?) description
+I chose the Chat Bot prompt because I remember being amazed at everything cleverbot was able to do before I got into coding. I wanted to create my own version to prove to myself that I could be the one behind an amazing application like this one day.  
 
 ## Table of Contents
 
@@ -12,14 +12,15 @@ Simple (or clever and funny?) description
 
 ## Background
 
-This is why this application exists.
+This application was used for admission into the Code2College
+Elite 101 program. 
 
 ## Install
 
-These are the steps to setup your local environment to run this application.
+Expects to use repl.it intall system. 
 
 ## Usage
 
-These are the steps to use the application or interact with it.
+To interact with the Chat Bot all you have to do is type a respnse. If you wish to end your chat, simply type "snickers" with all lowercase letters. 
 
 ### Any optional sections
