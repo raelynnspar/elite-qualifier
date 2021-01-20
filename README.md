@@ -24,3 +24,4 @@ Expects to use repl.it intall system.
 To interact with the Chat Bot all you have to do is type a respnse. If you wish to end your chat, simply type "snickers" with all lowercase letters. 
 
 ### Any optional sections
+Hello Katie!
