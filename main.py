@@ -114,6 +114,9 @@ def topic_gaming(game):
 
 # This function will ask the user how many siblings they have and #whether or not they are brothers or sisters.
 
+
+def topic_sibling():
+  if 
 def topic_siblings():
   if next_step == True or next_step == 3:
     num_siblings = str(input("How many siblings do you have?"))
@@ -123,7 +126,7 @@ def topic_siblings():
     elif num_siblings == "none" or num_siblings == 0:
       return 4
     else:  
-      bro_or_sis = input(num_siblings + " huh? Are they brothers or sisters?")
+      bro_or_sis = input(num_siblings + " Really? Are they brothers or sisters?")
       if bro_or_sis == "snickers":
         return 6
       print("Cool!")
