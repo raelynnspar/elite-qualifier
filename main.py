@@ -2,18 +2,10 @@ import random
 
 # The code word to end the program is "snickers"
 
-# Allows the user to give their chatbot a name
-def name_bot():
-  bot_name = input("Hello I am your friendbot would you like to give me a name?\n")
-  if bot_name == "snickers":
-    return 6
-  else:  
-    return bot_name
 
-name_of_bot = name_bot()
  # chatbot greets the user with it's new name, asks how they are, and # asks if they want to play a game.
 def greeting(friendbot_name):
-  name = input("Okay, I am " + friendbot_name +" ! What is your name?\n\n")
+  name = input("I am weebBot! What is your name?\n\n")
   mood = input("\nHi " + name + "! How are you today?\n\n")
   types_of_mood = ["good", "great", "bad", "fine"]
   if mood == "snickers" or name == "snickers":
